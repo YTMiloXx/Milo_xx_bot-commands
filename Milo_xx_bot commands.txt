@@ -1,0 +1,31 @@
+!created (Empty or any existing Twitch username)
+> Shows when the Twitch account given was created.
+
+!donate
+> Gives milo_xx' donation link. (refunds above €5)
+
+!following (Empty or any existing Twitch username)
+> Shows how long the given Twitch account has been following milo_xx.
+
+!hug
+> Hugs a random user watching the stream.
+
+!rank (Empty or existing Twitch username)
+> Shows the rank in of the given Twitch account in milo_xx' stream.
+
+!recentfollows
+> Shows the 3 most recent followers of milo_xx.
+
+!sm or !socialmedia
+> Displays all of milo_xx' social media links.
+
+!stats
+> Shows the stats of milo_xx' current stream.
+
+!top5hours
+> Shows the top 5 users based on hours.
+
+!top5coins
+> Shows the top 5 users based on coins.
+
+>This list is prone to get longer<
